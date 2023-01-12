@@ -1,0 +1,3 @@
+spp_commands.sh: line 2: syntax error near unexpected token `)'
+spp_commands.sh: line 2: `ceptron-no-spp_dev_orig-lru-1core -warmup_instructions 2000000 -simulation_instructions 1000000000 -traces /data/caojunhao/traces/603.bwaves_s-1080B.champsimtrace.xz) &> ./results_1B/perceptron-no-spp_dev_orig-lru-1core-603.bwaves_s-1080B.champsimtrace.txt'
+spp_commands.sh: line 3: race.txt: command not found
